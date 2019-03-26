@@ -1,0 +1,14 @@
+{
+  "name": "github-suspended-user-research",
+  "version": "1.0.0",
+  "description": "Uses the GitHub API to investigate details on GitHub Users who were suspended due to dormancy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@jbjonesjr",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/graphql": "^2.0.2"
+  }
+}
